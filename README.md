@@ -1,2 +1,1 @@
-# TodoApp
-MERN Stack
+MERN Stack - Todo App
